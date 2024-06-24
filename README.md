@@ -1,6 +1,6 @@
 # Hi 👋, I'm Yeju Lee Motley
 
-A highly motivated programmer and recent graduate from the 4Geeks Full Stack Development Bootcamp. I have a passion for developing innovative programs that expedite the efficiency and effectiveness of organizational success. 
+A highly motivated programmer and recent graduate from the 4Geeks Full Stack Development Bootcamp. I have a passion for transforming ideas into seamless digital experiences through innovation and collaboration
 
 ---
 

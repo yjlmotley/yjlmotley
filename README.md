@@ -2,6 +2,9 @@
 
 A highly motivated programmer and recent graduate from the 4Geeks Full Stack Development Bootcamp. I have a passion for transforming ideas into seamless digital experiences through innovation and collaboration
 
+Fun fact: I'm a black belt in Tae Kwon Do and love traveling, nature, and playing my musical instruments!
+Hobbies: hiking, roller blading by the ocean, audio engineering and production.
+
 ---
 
 ## 📫 How to reach me

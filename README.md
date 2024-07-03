@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yeju Lee Motley</h1>
-<h3 align="center">A hightly motivated programmer</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yjlmotley" alt="yjlmotley" /></a> </p>
+<h3 align="center"A highly motivated programmer and recent graduate from the 4Geeks Full Stack Development Bootcamp. I have a passion for transforming ideas into seamless digital experiences through innovation and collaboration</h3>
 
 - 🔭 I’m currently working on **a web app to connect beginner/intermediate coders with more experienced coders**
 
@@ -13,7 +11,7 @@
 
 - 📄 See my resume at [https://flowcv.com/resume/3dld6r12vg](https://flowcv.com/resume/3dld6r12vg)
 
-- ⚡ Fun fact **I have a black belt in taekwondo and I love nature and traveling!**
+- ⚡ Fun fact **I'm a black belt in Tae Kwon Do and love traveling, nature, and playing my musical instruments! Hobbies include hiking, roller blading by the ocean, audio engineering and production.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,6 +24,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yjlmotley&show_icons=true&locale=en&layout=compact" alt="yjlmotley" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yjlmotley&show_icons=true&locale=en" alt="yjlmotley" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yjlmotley&" alt="yjlmotley" /></p>
-

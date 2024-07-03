@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Yeju Lee Motley</h1>
 <h3 align="center"A highly motivated programmer and recent graduate from the 4Geeks Full Stack Development Bootcamp. I have a passion for transforming ideas into seamless digital experiences through innovation and collaboration</h3>
 
-- 🔭 I’m currently working on **a web app to connect beginner/intermediate coders with more experienced coders**
+🔭 I’m currently working on **a web app to connect beginner/intermediate coders with more experienced coders**
 
-- 🌱 I’m currently learning and getting my **cloud certifications**
+🌱 I’m currently learning and getting my **cloud certifications**
 
-- 👨‍💻 All of my projects are available at [https://github.com/yjlmotley](https://github.com/yjlmotley)
+👨‍💻 All of my projects are available at [https://github.com/yjlmotley](https://github.com/yjlmotley)
 
-- 📫 How to reach me **yejuleemotley@gmail.com**
+📫 How to reach me **yejuleemotley@gmail.com**
 
-- 📄 See my resume at [https://flowcv.com/resume/3dld6r12vg](https://flowcv.com/resume/3dld6r12vg)
+📄 See my resume at [https://flowcv.com/resume/3dld6r12vg](https://flowcv.com/resume/3dld6r12vg)
 
-- ⚡ Fun fact **I'm a black belt in Tae Kwon Do and love traveling, nature, and playing my musical instruments! Hobbies include hiking, roller blading by the ocean, audio engineering and production.**
+⚡ Fun fact **I'm a black belt in Tae Kwon Do and love traveling, nature, and playing my musical instruments! Hobbies include hiking, roller blading by the ocean, audio engineering and production.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

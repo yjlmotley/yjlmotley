@@ -2,7 +2,7 @@
 
 I am a highly motivated full-stack developer, a proud graduate of the Full Stack Development Bootcamp at 4Geeks Academy, and currently a mentor there. I have a passion for transforming ideas into seamless digital experiences through innovation and collaboration, leveraging soft skills such as problem-solving, effectively communication, teamwork, attention to detail, persistence, dedication and commitment.
 
-- 🔭 I’m currently working on **a web app to connect beginner/intermediate coders with more experienced coders**
+- 🔭 I’m currently working on **a web app using React, JS, Python, Stripe, Google Calendar integration**
 - 🌱 I’m currently learning and getting my **cloud certifications in Microsoft Azure, Amazon AWS, and CompTIA**
 - 👨‍💻 Most of my projects are available at **[https://github.com/yjlmotley](https://github.com/yjlmotley)**
 - 📫 How to reach me **yejuleemotley@gmail.com**
